@@ -1,6 +1,7 @@
 //THIS IS NEW 1.0 RELEASE VERSION!!!!!!
 //Hi, this my humble code and it helps to solve quadratic equatoins like ax^2 + bx + c
 #include <iostream>
+#include <cmath>
 int main()
 {
 	int a, b, c, d;
